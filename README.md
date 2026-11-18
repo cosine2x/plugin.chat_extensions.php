@@ -11,8 +11,9 @@ This plugin replaces the legacy `plugin.rasp_chat.php` from Xymph's Automatic Se
   - `/flip` (Flips a coin)
   - `/8ball <question>` (Consults the magic 8-ball)
 
-## Dependencies
+## Requirements & Dependencies
 - **XASECO** with PHP 8 compatibility (available at [Codeberg - hanouta/xaseco](https://codeberg.org/hanouta/xaseco)).
+- Trackmania Nations Forever / Trackmania United Forever server running the above-stated XASECO version.
 
 ## Installation
 1. Download the latest version of the plugin from the [Releases page](https://github.com/cosine2x/plugin.chat_extensions.php/releases).
